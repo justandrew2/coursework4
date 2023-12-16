@@ -229,7 +229,7 @@ ElasticButtonxx.onClick = function () {
       
     };
 
-    ElasticButton.onClick = function () {
+    ElasticButtonxx2.onClick = function () {
       if (app.project.activeItem && app.project.activeItem.selectedProperties.length > 0) {
           var comp = app.project.activeItem;
         
